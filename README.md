@@ -42,3 +42,4 @@ I have used the following modules
 8. https://www.w3schools.com/nodejs/nodejs_filesystem.asp
 9. https://code-maven.com/system-information-about-a-file-or-directory-in-nodejs
 10. https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/
+11. https://www.geeksforgeeks.org/javascript-promise-resolve-method/
