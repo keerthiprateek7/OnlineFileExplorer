@@ -40,3 +40,4 @@ I have used the following modules
 6. https://nodejs.dev/the-nodejs-path-module
 7. https://nodejs.org/api/fs.html
 8. https://www.w3schools.com/nodejs/nodejs_filesystem.asp
+9. https://code-maven.com/system-information-about-a-file-or-directory-in-nodejs
